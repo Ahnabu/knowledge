@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "cover": "[https://www.istockphoto.com/photos/landscape-painting: https://www.istockphoto.com/photos/landscape-painting",
+        "author": "Vincent van Gogh",
+        "author-img": "https://www.gettyimages.com/photos/vincent-van-gogh: https://www.gettyimages.com/photos/vincent-van-gogh",
+        "post date": "2024-03-12",
+        "reading time": 5,
+        "hashtags": "#art, #landscape, #impressionism"
+    },
+    {
+        "id": 2,
+        "cover": "https://esahubble.org/images/archive/category/nebulae/: https://esahubble.org/images/archive/category/nebulae/",
+        "author": "Neil deGrasse Tyson",
+        "author-img": "https://www.shutterstock.com/search/neil-degrasse-tyson: https://www.shutterstock.com/search/neil-degrasse-tyson",
+        "post date": "2024-03-11",
+        "reading time": 7,
+        "hashtags": "#science, #space, #astrophysics"
+    },
+    {
+        "id": 3,
+        "cover": "https://pixabay.com/images/search/bengal%20tiger/: https:// pixabay.com/images/search/bengal%20tiger/",
+        "author": "Steve Irwin",
+        "author-img": "https://www.gettyimages.com/photos/steve-irwin: https://www.gettyimages.com/photos/steve-irwin",
+        "post date": "2024-03-10",
+        "reading time": 10,
+        "hashtags": "#wildlife, #conservation, #animals"
+    },
+    {
+        "id": 4,
+        "cover": "https://www.istockphoto.com/photos/taj-mahal: https://www.istockphoto.com/photos/taj-mahal",
+        "author": "Shāh Jahān",
+        "author-img": "https://www.alamy.com/stock-photo/mughal-emperor-shah-jahan.html: https://www.alamy.com/stock-photo/mughal-emperor-shah-jahan.html",
+        "post date": "2024-03-09",
+        "reading time": 3,
+        "hashtags": "#history, #architecture, #india"
+    },
+    {
+        "id": 5,
+        "cover": "https://unsplash.com/s/photos/dhaka-city: https://unsplash.com/s/photos/dhaka-city",
+        "author": "Lonely Planet",
+        "author-img": "https://www.alamy.com/stock-photo/lonely-planet-logo.html: https://www.alamy.com/stock-photo/lonely-planet-logo.html",
+        "post date": "2024-03-08",
+        "reading time": 15,
+        "hashtags": "#travel, #dhaka, #bangladesh"
+    }
+]
